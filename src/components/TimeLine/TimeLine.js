@@ -75,7 +75,7 @@ const Timeline = () => {
         as cloud computing to futhere become a Tehnical Architect at a Product
         based company.
       </SectionText>
-      <CarouselContainer ref={carouselRef} onScroll={handScroll}>
+      <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
             <CarouselMobileScrollNode
