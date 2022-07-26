@@ -56,9 +56,8 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Team Collaboration</ListTitle>
           <ListParagraph>
-            Experienced with working on Git and Bitbucket,
-            <br />
-            for version control and team collaboration.
+            Experienced with working on Git and Bitbucket, for version control
+            and team collaboration.
           </ListParagraph>
         </ListContainer>
       </ListItem>

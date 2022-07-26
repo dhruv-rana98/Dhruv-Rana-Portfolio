@@ -68,12 +68,10 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         I am a professional developer who came a long way from dreaming of
-        becoming a developer
-        <br />
-        to working as a developer at a service based company. Aspiring to get
-        more grip over data structures and algorithms and Learn AI, ML as well
-        as cloud computing to futhere become a Tehnical Architect at a Product
-        based company.
+        becoming a developer to working as a developer at a service based
+        company. Aspiring to get more grip over data structures and algorithms
+        and Learn AI, ML as well as cloud computing to further become a
+        Technical Architect at a Product based company.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
